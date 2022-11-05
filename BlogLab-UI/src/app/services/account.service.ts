@@ -72,6 +72,4 @@ export class AccountService{
     localStorage.removeItem('blogLab-currentUser');
     this.currentUserSubject$.next; 
   }
-
-
 }
