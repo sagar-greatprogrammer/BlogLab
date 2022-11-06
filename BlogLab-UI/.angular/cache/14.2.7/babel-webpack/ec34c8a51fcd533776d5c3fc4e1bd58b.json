@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class BlogCreate {\n  constructor(blogId, title, content, photoId) {\n    this.blogId = blogId;\n    this.title = title;\n    this.content = content;\n    this.photoId = photoId;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}

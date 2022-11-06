@@ -9,7 +9,7 @@ export class Blog {
         public publishDate: Date,
         public updateDate: Date,
         public deleteConfirm: boolean = false,
-        public photoId?: number
+        public photoId: number
     ) {}
 
 }
